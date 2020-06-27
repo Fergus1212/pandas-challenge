@@ -1,4 +1,4 @@
-# Heroes of Pymoli Monetization Analysis<br/>
+# Heroes of Pymoli Transaction Analysis<br/>
 
 ## Methodology<br/>
 Transaction data has been loaded into Python and analysed using the pandas library.<br/>
